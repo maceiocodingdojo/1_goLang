@@ -13,10 +13,7 @@ import "testing"
 
 
 func TestSeNumeroDivisivelPor3(t *testing.T) {
-  if(IsDivisivelPor3(3)) {
-    return true
-  }
-  else {
-    return false
+  if IsDivisivelPor3(4) {
+    t.Fatalf("divisao invalida")
   }
 }
