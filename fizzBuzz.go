@@ -12,3 +12,11 @@ func IsDivisivelPor3(num int) bool {
     return false
   }
 }
+
+func IsDivisivelPor5(num int) bool {
+  if num % 5 == 0 {
+    return true
+  } else {
+    return false
+  }
+}
