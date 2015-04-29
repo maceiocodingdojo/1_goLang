@@ -2,9 +2,9 @@
 
 Data **28.04.2015**<br/>
 Kata escohido [fizzBuzz](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz).<br/>
-Linguagem [GoLang](golang.org).<br/>
+Linguagem [GoLang](http://golang.org/).<br/>
 VagrantBox [vagrant-golang](https://github.com/dcoxall/vagrant-golang)<br/>
-Local [Senac Centenário](http://www.al.senac.br/)
+Local [Senac Centenário](http://www.al.senac.br/)<br/>
 Resultado **incompleto**.<br/>
 
 ## O que aprendemos?
@@ -12,7 +12,7 @@ Resultado **incompleto**.<br/>
 
 * Teclado e mouse do notebook
 * Explicação muito rápida.
-* Verificar tempo disponível no local, não conseguimos motrar o resultado.
+* Verificar tempo disponível no local, não conseguimos mostrar o resultado.
 * Não esperar atrazados.
 * No caso de muitos participantes, reduzir o tempo do rodízio para 5 minutos.
 * Conversas paralelas, controlar a platéia.
