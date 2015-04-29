@@ -18,8 +18,4 @@ func TestSeNumeroDivisivelPor3(t *testing.T) {
   }
 }
 
-func TestSenumeroDivisivelPor5(t *testing.T){
-  if IsDivisivelPor5(15) {
-    t.Fatalf("divisao invalida")
-  }
-}
+func TestSeNumeroDivisivelPor5(t *testing.T)}
