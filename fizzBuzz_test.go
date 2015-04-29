@@ -1,7 +1,6 @@
 package dojo
 
 import "testing"
-import "math/rand"
 
 // If test fail
 // t.Fatalf("at index %d, expected %d, got %d.", i, v, val)
@@ -14,9 +13,13 @@ import "math/rand"
 
 
 func TestSeNumeroDivisivelPor3(t *testing.T) {
-  //for num:=0; num
-
-  if IsDivisivelPor3(num) {
+  if IsDivisivelPor3(3) {
+    t.Fatalf("divisao invalida")
+  }
+  if IsDivisivelPor3(6) {
+    t.Fatalf("divisao invalida")
+  }
+  if IsDivisivelPor3(9) {
     t.Fatalf("divisao invalida")
   }
 }

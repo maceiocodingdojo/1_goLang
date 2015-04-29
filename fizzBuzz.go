@@ -1,27 +1,31 @@
 package dojo
 
-//import "strconv"
+import "strconv"
 
 
 // func SampleFunction(paramName paramType) returnType{
 //
-num:=[]int{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
 
 func IsDivisivelPor3(num int) string {
   if num % 3 == 0 {
     return "Fizz"
-
-
+  } else {
+    return strconv.Itoa(num)
   }
 }
 
 func IsDivisivelPor5(num int) string  {
   if num % 5 == 0 {
     return "Buzz"
+  } else {
+    return strconv.Itoa(num)
   }
 }
-func IsDivisivelPor3(num int) string {
-  if (num%3==0) && (num%5==0){
-    return"fizz-buzz"
+
+func IsDivisivelPor3e5(num int) string {
+  if num%3==0 && num%5==0 {
+    return"fizzBuzz"
+  } else {
+    return strconv.Itoa(num)
   }
 }
