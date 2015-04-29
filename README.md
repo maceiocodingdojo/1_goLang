@@ -34,5 +34,5 @@ Resultado **incompleto**.<br/>
 Você se lembra de outra coisa, quer contribuir, deixar sua opinião/sugestão?
 
 * Abra uma issue clicando [aqui](https://github.com/maceiocodingdojo/1_goLang/issues/new).
-* Faça um fork e mande um pull request. Só clicar [aqui](https://github.com/maceiocodingdojo/1_goLang#fork-destination-box)
+* Faça um fork e mande um pull request.
 * Caso queira resolver é só baixar o repositório e continuar de onde paramos.
