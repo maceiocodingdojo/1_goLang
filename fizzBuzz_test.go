@@ -18,4 +18,6 @@ func TestSeNumeroDivisivelPor3(t *testing.T) {
   }
 }
 
-func TestSeNumeroDivisivelPor5(t *testing.T)}
+/*func TestSeNumeroDivisivelPor5(t *testing.T) {
+  if
+}*/
