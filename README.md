@@ -13,7 +13,7 @@ Resultado **incompleto**.<br/>
 * Teclado e mouse do notebook
 * Explicação muito rápida.
 * Verificar tempo disponível no local, não conseguimos mostrar o resultado.
-* Não esperar atrazados.
+* Não esperar atrasados.
 * No caso de muitos participantes, reduzir o tempo do rodízio para 5 minutos.
 * Conversas paralelas, controlar a platéia.
 
